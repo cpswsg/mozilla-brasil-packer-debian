@@ -45,6 +45,10 @@ packer build mozilla-brasil-packer-debian
 Basta add a box gerada no seu vagrant e começar a trabalhar...
 
 
+### Box Finalizada
+
+Você pode fazer o download desta box. [aqui](http://lab.cynthiapereira.com/mozilla-brasil/mozilla-brasil-packer-debian-7.7.0-amd64_virtualbox.box)
+
 
 ## Créditos e Licença
 
