@@ -47,7 +47,7 @@ Basta add a box gerada no seu vagrant e começar a trabalhar...
 
 ### Box Finalizada
 
-Você pode fazer o download desta box. [aqui](http://lab.cynthiapereira.com/mozilla-brasil/mozilla-brasil-packer-debian-7.7.0-amd64_virtualbox.box)
+Você pode fazer o download desta box [aqui](http://cloud.mozillabrasil.org.br/public.php?service=files&t=97da2be835de7c2ebe3cc099fe49086f).
 
 
 ## Créditos e Licença
